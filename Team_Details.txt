@@ -1,4 +1,4 @@
 Team Name: anubhav_divyanshu_07_14
-
-Name: Divyanshu Parganiha	Roll No: 201000014
-	Anubhav Garg			   201000007
+        NAME             ROLL NO
+ Divyanshu Parganiha	201000014
+ Anubhav Garg	        201000007
